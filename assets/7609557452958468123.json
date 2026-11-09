@@ -1,0 +1,56 @@
+{
+  "id": "7609557452958468123",
+  "rank": 9,
+  "title": "拿下拿下（Cover 王者阿水 & 阿水）（剪辑版）",
+  "author": "长顺",
+  "album": "",
+  "heat": 16906061,
+  "user_count": 1684047,
+  "duration": 15,
+  "duration_formatted": "15秒",
+  "is_original": false,
+  "is_commerce_music": true,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:47",
+  "files": {
+    "cover_image": "images/7609557452958468123.jpg",
+    "audio": "music/7609557452958468123.mp3",
+    "lyrics": "lyrics/7609557452958468123.lrc",
+    "chorus_lyrics": "chorus_lyrics/7609557452958468123_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7609557452958468123.json",
+    "chorus_raw_lyrics": "raw_lyrics/7609557452958468123_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "72.384秒 - 98.879秒 (持续26.495秒)",
+    "start_seconds": 72.384,
+    "duration_seconds": 26.495
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "Hip Hop/Rap",
+      "Trap Rap"
+    ],
+    "Themes": [
+      "Dance"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocM9EfeDIADeKU4rI7A9UMV4ANuf7A4mCASYfg"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

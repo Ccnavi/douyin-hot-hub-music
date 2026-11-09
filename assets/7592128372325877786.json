@@ -1,0 +1,58 @@
+{
+  "id": "7592128372325877786",
+  "rank": 11,
+  "title": "几分之几（氛围r&b）（Cover 卢广仲）（剪辑版）",
+  "author": "PPR",
+  "album": "",
+  "heat": 16777254,
+  "user_count": 580533,
+  "duration": 25,
+  "duration_formatted": "25秒",
+  "is_original": false,
+  "is_commerce_music": true,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7592128372325877786.jpg",
+    "audio": "music/7592128372325877786.mp3",
+    "lyrics": "lyrics/7592128372325877786.lrc",
+    "chorus": "chorus/7592128372325877786_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7592128372325877786_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7592128372325877786.json",
+    "chorus_raw_lyrics": "raw_lyrics/7592128372325877786_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "48.384秒 - 73.920秒 (持续25.536秒)",
+    "start_seconds": 48.384,
+    "duration_seconds": 25.536
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Chill"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop",
+      "R&B/Soul"
+    ],
+    "Themes": [
+      "Love"
+    ],
+    "SingingVersions": [
+      "Cover"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocGUk4E8CiBAdQYoBWAXFhrXE7irIiwAAaAvW"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

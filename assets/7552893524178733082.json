@@ -1,0 +1,56 @@
+{
+  "id": "7552893524178733082",
+  "rank": 17,
+  "title": "一切都在变好（生命力BGM）",
+  "author": "Martins Garix",
+  "album": "一切都在变好（生命力BGM）",
+  "heat": 16586655,
+  "user_count": 5697586,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7552893524178733082.jpg",
+    "audio": "music/7552893524178733082.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7552893524178733082_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 45.504秒 (持续45.504秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 45.504
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "Electronic"
+    ],
+    "Themes": [
+      "Dance",
+      "Transition"
+    ],
+    "SingingVersions": [
+      "High Quality",
+      "Low Cost Creation",
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

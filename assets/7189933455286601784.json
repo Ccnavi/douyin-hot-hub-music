@@ -1,0 +1,59 @@
+{
+  "id": "7189933455286601784",
+  "rank": 13,
+  "title": "你很哇塞(女神节版)",
+  "author": "夏梓薰",
+  "album": "",
+  "heat": 16713582,
+  "user_count": 475831,
+  "duration": 52,
+  "duration_formatted": "52秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7189933455286601784.jpg",
+    "audio": "music/7189933455286601784.mp3",
+    "lyrics": "lyrics/7189933455286601784.lrc",
+    "chorus": "chorus/7189933455286601784_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7189933455286601784_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7189933455286601784.json",
+    "chorus_raw_lyrics": "raw_lyrics/7189933455286601784_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "7.296秒 - 37.248秒 (持续29.952秒)",
+    "start_seconds": 7.296,
+    "duration_seconds": 29.952
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Happy",
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Dance",
+      "Low"
+    ],
+    "SingingVersions": [
+      "Low Cost Creation"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/76060e371fa247819f0ef2ee0511cda2"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

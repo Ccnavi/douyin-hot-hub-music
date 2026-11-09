@@ -1,0 +1,56 @@
+{
+  "id": "7612403400110344228",
+  "rank": 30,
+  "title": "りんごなんてつまらなくないもん！（苹果才不无聊呢！）",
+  "author": "鱼饼吃橘子",
+  "album": "",
+  "heat": 16258963,
+  "user_count": 32908,
+  "duration": 199,
+  "duration_formatted": "199秒",
+  "is_original": false,
+  "is_commerce_music": true,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:49",
+  "files": {
+    "cover_image": "images/7612403400110344228.jpg",
+    "audio": "music/7612403400110344228.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7612403400110344228_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "103.488秒 - 130.752秒 (持续27.264秒)",
+    "start_seconds": 103.488,
+    "duration_seconds": 27.264
+  },
+  "tags": {
+    "Languages": [
+      "Japanese"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Pop",
+      "Dance Pop"
+    ],
+    "Themes": [
+      "Love",
+      "Summer",
+      "Dance"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

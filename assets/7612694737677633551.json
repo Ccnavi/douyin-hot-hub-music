@@ -1,0 +1,57 @@
+{
+  "id": "7612694737677633551",
+  "rank": 7,
+  "title": "忘了算了（Cover 范怡文）（主歌）",
+  "author": "溫月月.",
+  "album": "",
+  "heat": 16925670,
+  "user_count": 281096,
+  "duration": 30,
+  "duration_formatted": "30秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:46",
+  "files": {
+    "cover_image": "images/7612694737677633551.jpg",
+    "audio": "assets/music/7612694737677633551.mp3",
+    "lyrics": "lyrics/7612694737677633551.lrc",
+    "chorus_lyrics": "chorus_lyrics/7612694737677633551_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7612694737677633551.json",
+    "chorus_raw_lyrics": "raw_lyrics/7612694737677633551_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "73.152秒 - 104.639秒 (持续31.487秒)",
+    "start_seconds": 73.152,
+    "duration_seconds": 31.487
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop",
+      "Chinese Style"
+    ],
+    "Themes": [
+      "No Theme"
+    ],
+    "SingingVersions": [
+      "Cover"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owA2av1AEidrAYDy4DyyAQHUBAJWXmLaJNEli"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

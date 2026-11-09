@@ -1,0 +1,56 @@
+{
+  "id": "7439986145566492735",
+  "rank": 12,
+  "title": "here with me (Tove Ball Remix)",
+  "author": "Tove Ball",
+  "album": "",
+  "heat": 16736118,
+  "user_count": 1398219,
+  "duration": 187,
+  "duration_formatted": "187秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7439986145566492735.jpg",
+    "audio": "music/7439986145566492735.mp3",
+    "lyrics": "lyrics/7439986145566492735.lrc",
+    "chorus": "chorus/7439986145566492735_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7439986145566492735_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7439986145566492735.json",
+    "chorus_raw_lyrics": "raw_lyrics/7439986145566492735_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "51.264秒 - 80.640秒 (持续29.376秒)",
+    "start_seconds": 51.264,
+    "duration_seconds": 29.376
+  },
+  "tags": {
+    "Languages": [
+      "English"
+    ],
+    "Moods": [
+      "Lonely"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Themes": [
+      "Autumn"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ooBABiLhKo3UBBqAsfKAIMW8QhiNgBAECznQEW"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

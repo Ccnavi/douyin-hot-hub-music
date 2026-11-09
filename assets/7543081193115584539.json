@@ -1,0 +1,52 @@
+{
+  "id": "7543081193115584539",
+  "rank": 8,
+  "title": "ditto(氛围感)",
+  "author": "@天子",
+  "album": "Africa",
+  "heat": 16923027,
+  "user_count": 231394,
+  "duration": 101,
+  "duration_formatted": "101秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:47",
+  "files": {
+    "cover_image": "images/7543081193115584539.jpg",
+    "audio": "music/7543081193115584539.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7543081193115584539_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "2.688秒 - 18.624秒 (持续15.936秒)",
+    "start_seconds": 2.688,
+    "duration_seconds": 15.936
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Healing",
+      "Calm"
+    ],
+    "Genres": [
+      "Easy Listening"
+    ],
+    "Themes": null,
+    "SingingVersions": [
+      "Low Cost Creation"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

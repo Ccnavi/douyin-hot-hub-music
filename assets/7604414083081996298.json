@@ -1,0 +1,56 @@
+{
+  "id": "7604414083081996298",
+  "rank": 25,
+  "title": "Proof(Slowed)",
+  "author": "GOLD999",
+  "album": "",
+  "heat": 16360936,
+  "user_count": 4307498,
+  "duration": 161,
+  "duration_formatted": "161秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7604414083081996298.jpg",
+    "audio": "music/7604414083081996298.mp3",
+    "lyrics": "lyrics/7604414083081996298.lrc",
+    "chorus": "chorus/7604414083081996298_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7604414083081996298_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7604414083081996298.json",
+    "chorus_raw_lyrics": "raw_lyrics/7604414083081996298_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 16.896秒 (持续16.896秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 16.896
+  },
+  "tags": {
+    "Languages": [
+      "English"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Hip Hop/Rap"
+    ],
+    "Themes": [
+      "Rainy"
+    ],
+    "SingingVersions": [
+      "Low Cost Creation"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQCi1ko3EB7WoqxAHJEBfAtsm4BiAAMwAcX0EH"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

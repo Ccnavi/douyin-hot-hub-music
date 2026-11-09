@@ -1,0 +1,42 @@
+{
+  "id": "7685021452768447266",
+  "rank": 2,
+  "title": "孤岛",
+  "author": "吴姆斯",
+  "album": "孤岛（太多人的相逢只是一场梦） ",
+  "heat": 19773688,
+  "user_count": 319891,
+  "duration": 29,
+  "duration_formatted": "29秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:45",
+  "files": {
+    "cover_image": "images/7685021452768447266.jpg",
+    "audio": "music/7685021452768447266.mp3",
+    "lyrics": ""
+  },
+  "high_peak": {
+    "time_range": "",
+    "start_seconds": null,
+    "duration_seconds": null
+  },
+  "tags": {
+    "Languages": null,
+    "Moods": null,
+    "Genres": null,
+    "Themes": null,
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": false
+  }
+}

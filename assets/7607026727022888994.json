@@ -1,0 +1,54 @@
+{
+  "id": "7607026727022888994",
+  "rank": 14,
+  "title": "Scared 2 be lonely beat（当真爱降临）（剪辑版）",
+  "author": "Yn1jasper",
+  "album": "",
+  "heat": 16710983,
+  "user_count": 255586,
+  "duration": 49,
+  "duration_formatted": "49秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7607026727022888994.jpg",
+    "audio": "music/7607026727022888994.mp3",
+    "lyrics": "lyrics/7607026727022888994.lrc",
+    "chorus": "chorus/7607026727022888994_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7607026727022888994_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7607026727022888994.json",
+    "chorus_raw_lyrics": "raw_lyrics/7607026727022888994_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "26.688秒 - 45.312秒 (持续18.624秒)",
+    "start_seconds": 26.688,
+    "duration_seconds": 18.624
+  },
+  "tags": {
+    "Languages": [
+      "English"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Hip Hop/Rap"
+    ],
+    "Themes": [
+      "Rainy"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8IAIAGeoheIv11m7QfmlALQwA8GzFAGKQN2fF"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

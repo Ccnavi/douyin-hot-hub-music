@@ -1,0 +1,53 @@
+{
+  "id": "7592875430232623144",
+  "rank": 15,
+  "title": "幸福降临（剪辑版）",
+  "author": "刘星宇",
+  "album": "",
+  "heat": 16704905,
+  "user_count": 1606603,
+  "duration": 29,
+  "duration_formatted": "29秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7592875430232623144.jpg",
+    "audio": "music/7592875430232623144.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7592875430232623144_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "60.672秒 - 89.472秒 (持续28.800秒)",
+    "start_seconds": 60.672,
+    "duration_seconds": 28.8
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Romantic"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Themes": [
+      "No Theme"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

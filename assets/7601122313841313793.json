@@ -1,0 +1,54 @@
+{
+  "id": "7601122313841313793",
+  "rank": 5,
+  "title": "心绪(我想要的只是你在我身边)",
+  "author": "宇宙草",
+  "album": "",
+  "heat": 17095380,
+  "user_count": 222714,
+  "duration": 29,
+  "duration_formatted": "29秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:46",
+  "files": {
+    "cover_image": "images/7601122313841313793.jpg",
+    "audio": "music/7601122313841313793.mp3",
+    "lyrics": "lyrics/7601122313841313793.lrc",
+    "chorus_lyrics": "chorus_lyrics/7601122313841313793_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7601122313841313793.json",
+    "chorus_raw_lyrics": "raw_lyrics/7601122313841313793_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "155.520秒 - 211.583秒 (持续56.063秒)",
+    "start_seconds": 155.52,
+    "duration_seconds": 56.063
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Love"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osA8XHwvfBE9juBjABs0DyAwFiAoiWA6PgAE8w"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

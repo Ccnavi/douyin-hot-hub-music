@@ -1,0 +1,58 @@
+{
+  "id": "7561006047303010321",
+  "rank": 20,
+  "title": "左转灯 (1000 Times+1)",
+  "author": "派偉俊/mac ova sea",
+  "album": "左转灯 (1000 Times+1)",
+  "heat": 16495708,
+  "user_count": 6982998,
+  "duration": 197,
+  "duration_formatted": "197秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-09 12:48",
+  "files": {
+    "cover_image": "images/7561006047303010321.jpg",
+    "audio": "music/7561006047303010321.mp3",
+    "lyrics": "lyrics/7561006047303010321.lrc",
+    "chorus": "chorus/7561006047303010321_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7561006047303010321_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7561006047303010321.json",
+    "chorus_raw_lyrics": "raw_lyrics/7561006047303010321_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "117.696秒 - 176.255秒 (持续58.559秒)",
+    "start_seconds": 117.696,
+    "duration_seconds": 58.559
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Memory"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop",
+      "Hip Hop/Rap"
+    ],
+    "Themes": [
+      "Love"
+    ],
+    "SingingVersions": [
+      "republished version"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oc8GLFfec1tAaAPmEAAPIeNfAcmikEKppGxmAg"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}
