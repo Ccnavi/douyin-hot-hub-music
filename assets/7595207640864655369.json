@@ -5,7 +5,7 @@
   "author": "图钉姐",
   "album": "",
   "heat": 17097339,
-  "user_count": 957657,
+  "user_count": 957639,
   "duration": 233,
   "duration_formatted": "233秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-09 12:46",
+  "update_time": "2026-11-09 13:56",
   "files": {
     "cover_image": "images/7595207640864655369.jpg",
     "audio": "music/7595207640864655369.mp3",
@@ -46,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogxlf9AGIE7qX4ADd3SaRDeC0IxHgUAfAFzFDz"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogxlf9AGIE7qX4ADd3SaRDeC0IxHgUAfAFzFDz"
   },
   "audio_info": {
     "is_full_audio": true,
