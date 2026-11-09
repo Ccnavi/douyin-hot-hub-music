@@ -5,7 +5,7 @@
   "author": "Jamvana/ZEKEN",
   "album": "You And Me",
   "heat": 17045782,
-  "user_count": 1455091,
+  "user_count": 1455046,
   "duration": 162,
   "duration_formatted": "162秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-09 18:07",
+  "update_time": "2026-11-09 20:08",
   "files": {
     "cover_image": "images/7599573295705688065.jpg",
     "audio": "music/7599573295705688065.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oAX9OFRtEEDEgI0eFQfwHAICZA2gpDQCBAkABU"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oAX9OFRtEEDEgI0eFQfwHAICZA2gpDQCBAkABU"
   },
   "audio_info": {
     "is_full_audio": true,
