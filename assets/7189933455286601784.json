@@ -5,7 +5,7 @@
   "author": "夏梓薰",
   "album": "",
   "heat": 16713582,
-  "user_count": 475822,
+  "user_count": 475808,
   "duration": 52,
   "duration_formatted": "52秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-09 13:56",
+  "update_time": "2026-11-09 16:53",
   "files": {
     "cover_image": "images/7189933455286601784.jpg",
     "audio": "music/7189933455286601784.mp3",
@@ -49,7 +49,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/76060e371fa247819f0ef2ee0511cda2"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/76060e371fa247819f0ef2ee0511cda2"
   },
   "audio_info": {
     "is_full_audio": true,
