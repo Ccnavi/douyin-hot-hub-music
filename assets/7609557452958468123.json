@@ -5,7 +5,7 @@
   "author": "长顺",
   "album": "",
   "heat": 16906061,
-  "user_count": 1683691,
+  "user_count": 1683835,
   "duration": 15,
   "duration_formatted": "15秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-10 09:24",
+  "update_time": "2026-11-10 11:08",
   "files": {
     "cover_image": "images/7609557452958468123.jpg",
     "audio": "music/7609557452958468123.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocM9EfeDIADeKU4rI7A9UMV4ANuf7A4mCASYfg"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocM9EfeDIADeKU4rI7A9UMV4ANuf7A4mCASYfg"
   },
   "audio_info": {
     "is_full_audio": false,
