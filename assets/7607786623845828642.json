@@ -5,7 +5,7 @@
   "author": "J.H.H",
   "album": "",
   "heat": 16817955,
-  "user_count": 2348980,
+  "user_count": 2348970,
   "duration": 42,
   "duration_formatted": "42秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 00:56",
+  "update_time": "2026-11-12 07:18",
   "files": {
     "cover_image": "images/7607786623845828642.jpg",
     "audio": "music/7607786623845828642.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okUAghvLDC4I4FLzDDHIcELAAbaPAbeBfRhGIe"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okUAghvLDC4I4FLzDDHIcELAAbaPAbeBfRhGIe"
   },
   "audio_info": {
     "is_full_audio": false,
