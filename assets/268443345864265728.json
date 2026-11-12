@@ -5,7 +5,7 @@
   "author": "方大同",
   "album": "The Soulboy Collection",
   "heat": 16861992,
-  "user_count": 300553,
+  "user_count": 300523,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": true,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 22:55",
+  "update_time": "2026-11-13 06:31",
   "files": {
     "cover_image": "images/268443345864265728.jpg",
     "audio": "music/268443345864265728.mp3",
@@ -51,7 +51,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocTz3VIOABA5AszMwEiklJoBmfzoWEBiAWAAoE"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocTz3VIOABA5AszMwEiklJoBmfzoWEBiAWAAoE"
   },
   "audio_info": {
     "is_full_audio": false,

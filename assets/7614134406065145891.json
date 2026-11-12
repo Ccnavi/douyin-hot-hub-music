@@ -5,7 +5,7 @@
   "author": "5757E",
   "album": "",
   "heat": 17823739,
-  "user_count": 361970,
+  "user_count": 361929,
   "duration": 32,
   "duration_formatted": "32秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 22:54",
+  "update_time": "2026-11-13 06:14",
   "files": {
     "cover_image": "images/7614134406065145891.jpg",
     "audio": "music/7614134406065145891.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8AfEFZ6Ck6ZwDfOE8RBMYAEC8EtspbQgABwEB"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8AfEFZ6Ck6ZwDfOE8RBMYAEC8EtspbQgABwEB"
   },
   "audio_info": {
     "is_full_audio": false,
