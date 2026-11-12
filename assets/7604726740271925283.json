@@ -1,11 +1,11 @@
 {
   "id": "7604726740271925283",
-  "rank": 24,
+  "rank": 42,
   "title": "比比拉布 我的刀盾",
   "author": "阿吉野马",
   "album": "",
   "heat": 16612894,
-  "user_count": 541058,
+  "user_count": 540955,
   "duration": 145,
   "duration_formatted": "145秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:04",
+  "update_time": "2026-11-12 23:14",
   "files": {
     "cover_image": "images/7604726740271925283.jpg",
     "audio": "music/7604726740271925283.mp3",

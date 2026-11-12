@@ -1,11 +1,11 @@
 {
   "id": "7596326723956853558",
-  "rank": 31,
+  "rank": 49,
   "title": "太聪明R&B版（剪辑版）",
   "author": "Dave",
   "album": "太聪明R&B版",
   "heat": 16486441,
-  "user_count": 136312,
+  "user_count": 136306,
   "duration": 93,
   "duration_formatted": "93秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:04",
+  "update_time": "2026-11-12 23:14",
   "files": {
     "cover_image": "images/7596326723956853558.jpg",
     "audio": "music/7596326723956853558.mp3",

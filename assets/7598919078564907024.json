@@ -1,11 +1,11 @@
 {
   "id": "7598919078564907024",
-  "rank": 12,
+  "rank": 30,
   "title": "也不是谁的错",
   "author": "新海鹅乐队",
   "album": "曾经的过往和事",
   "heat": 16750599,
-  "user_count": 87010,
+  "user_count": 86965,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:03",
+  "update_time": "2026-11-12 22:56",
   "files": {
     "cover_image": "images/7598919078564907024.jpg",
     "audio": "music/7598919078564907024.mp3",
@@ -49,7 +49,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okcfg3DAAEpAFDT4VQfBZ2gAi7aHjItUCEBHgE"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okcfg3DAAEpAFDT4VQfBZ2gAi7aHjItUCEBHgE"
   },
   "audio_info": {
     "is_full_audio": false,

@@ -1,11 +1,11 @@
 {
   "id": "7591805424114912010",
-  "rank": 34,
+  "rank": 52,
   "title": "雨过后的风景（某年某月某个星期几）",
   "author": "dizzydizzo蔡诗芸",
   "album": "雨过后的风景（情绪版）",
   "heat": 16461692,
-  "user_count": 2829612,
+  "user_count": 2829065,
   "duration": 31,
   "duration_formatted": "31秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:05",
+  "update_time": "2026-11-12 23:15",
   "files": {
     "cover_image": "images/7591805424114912010.jpg",
     "audio": "music/7591805424114912010.mp3",

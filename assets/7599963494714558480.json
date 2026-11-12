@@ -1,0 +1,56 @@
+{
+  "id": "7599963494714558480",
+  "rank": 28,
+  "title": "读心术（束一个马尾束起所有伤悲）",
+  "author": "卓文萱",
+  "album": "幸福氧气",
+  "heat": 16767267,
+  "user_count": 1191617,
+  "duration": 34,
+  "duration_formatted": "34秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 22:56",
+  "files": {
+    "cover_image": "images/7599963494714558480.jpg",
+    "audio": "music/7599963494714558480.mp3",
+    "lyrics": "lyrics/7599963494714558480.lrc",
+    "chorus_lyrics": "chorus_lyrics/7599963494714558480_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7599963494714558480.json",
+    "chorus_raw_lyrics": "raw_lyrics/7599963494714558480_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "62.208秒 - 112.896秒 (持续50.688秒)",
+    "start_seconds": 62.208,
+    "duration_seconds": 50.688
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Autumn"
+    ],
+    "SingingVersions": [
+      "republished version"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okAeBLfrKeUm0GItIkDGbXAfF7I1lm3AAAFKI6"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

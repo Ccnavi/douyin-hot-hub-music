@@ -1,11 +1,11 @@
 {
   "id": "7611207034357368848",
-  "rank": 29,
+  "rank": 47,
   "title": "你知道天空有多藍",
   "author": "椅子樂團",
   "album": "愛的對白",
   "heat": 16495055,
-  "user_count": 5274295,
+  "user_count": 5273572,
   "duration": 33,
   "duration_formatted": "33秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:04",
+  "update_time": "2026-11-12 23:14",
   "files": {
     "cover_image": "images/7611207034357368848.jpg",
     "audio": "music/7611207034357368848.mp3",

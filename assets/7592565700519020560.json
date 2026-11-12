@@ -1,11 +1,11 @@
 {
   "id": "7592565700519020560",
-  "rank": 27,
+  "rank": 45,
   "title": "Heroes 3",
   "author": "VZEUS",
   "album": "Heroes 3",
   "heat": 16521026,
-  "user_count": 262297,
+  "user_count": 262282,
   "duration": 110,
   "duration_formatted": "110秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:04",
+  "update_time": "2026-11-12 23:14",
   "files": {
     "cover_image": "images/7592565700519020560.jpg",
     "audio": "music/7592565700519020560.mp3",

@@ -1,0 +1,332 @@
+[
+  {
+    "start_time": 12.65,
+    "end_time": 17.65,
+    "content": "Peach on the counter"
+  },
+  {
+    "start_time": 14.41,
+    "end_time": 19.41,
+    "content": "Sun on the tile"
+  },
+  {
+    "start_time": 16.09,
+    "end_time": 21.09,
+    "content": "Juice on your fingers"
+  },
+  {
+    "start_time": 17.65,
+    "end_time": 22.65,
+    "content": "You laugh"
+  },
+  {
+    "start_time": 18.29,
+    "end_time": 23.29,
+    "content": "I smile"
+  },
+  {
+    "start_time": 19.33,
+    "end_time": 24.33,
+    "content": "You say it's too ripe"
+  },
+  {
+    "start_time": 21.05,
+    "end_time": 26.05,
+    "content": "I say it's just right"
+  },
+  {
+    "start_time": 22.77,
+    "end_time": 27.77,
+    "content": "We bite at the same time"
+  },
+  {
+    "start_time": 24.41,
+    "end_time": 29.41,
+    "content": "Sweet"
+  },
+  {
+    "start_time": 24.9,
+    "end_time": 29.9,
+    "content": "Messy light"
+  },
+  {
+    "start_time": 26.41,
+    "end_time": 31.41,
+    "content": "Car windows open"
+  },
+  {
+    "start_time": 28.13,
+    "end_time": 33.129999999999995,
+    "content": "Hair in your face"
+  },
+  {
+    "start_time": 29.89,
+    "end_time": 34.89,
+    "content": "Bag full of roadside fruit"
+  },
+  {
+    "start_time": 31.66,
+    "end_time": 36.66,
+    "content": "Heat in the place"
+  },
+  {
+    "start_time": 33.05,
+    "end_time": 38.05,
+    "content": "Pit in the cup holder"
+  },
+  {
+    "start_time": 34.93,
+    "end_time": 39.93,
+    "content": "Knee on the seat"
+  },
+  {
+    "start_time": 36.05,
+    "end_time": 41.05,
+    "content": "You lean over at a red light"
+  },
+  {
+    "start_time": 38.18,
+    "end_time": 43.18,
+    "content": "Kiss me"
+  },
+  {
+    "start_time": 38.89,
+    "end_time": 43.89,
+    "content": "Then eat"
+  },
+  {
+    "start_time": 39.73,
+    "end_time": 44.73,
+    "content": "You taste like summer peach"
+  },
+  {
+    "start_time": 43.05,
+    "end_time": 48.05,
+    "content": "Sticky hands and softest speech"
+  },
+  {
+    "start_time": 46.49,
+    "end_time": 51.49,
+    "content": "Dripping down my sleeve"
+  },
+  {
+    "start_time": 48.18,
+    "end_time": 53.18,
+    "content": "Don't wipe it"
+  },
+  {
+    "start_time": 48.93,
+    "end_time": 53.93,
+    "content": "Let it breathe"
+  },
+  {
+    "start_time": 50.61,
+    "end_time": 55.61,
+    "content": "If this is all we ever reach"
+  },
+  {
+    "start_time": 52.46,
+    "end_time": 57.46,
+    "content": "I'm okay with just this peach"
+  },
+  {
+    "start_time": 54.15,
+    "end_time": 59.15,
+    "content": "You taste like summer peach"
+  },
+  {
+    "start_time": 56.77,
+    "end_time": 61.77,
+    "content": "Sticky hands and softest speech"
+  },
+  {
+    "start_time": 60.25,
+    "end_time": 65.25,
+    "content": "Dripping down my sleeve"
+  },
+  {
+    "start_time": 61.9,
+    "end_time": 66.9,
+    "content": "Don't wipe it"
+  },
+  {
+    "start_time": 62.65,
+    "end_time": 67.65,
+    "content": "Let it breathe"
+  },
+  {
+    "start_time": 64.33,
+    "end_time": 69.33,
+    "content": "If this is all we ever reach"
+  },
+  {
+    "start_time": 66.18,
+    "end_time": 71.18,
+    "content": "I'm okay with just this peach"
+  },
+  {
+    "start_time": 70.97,
+    "end_time": 75.97,
+    "content": "Peach on the counter"
+  },
+  {
+    "start_time": 72.65,
+    "end_time": 77.65,
+    "content": "Sun on the tile"
+  },
+  {
+    "start_time": 74.17,
+    "end_time": 79.17,
+    "content": "Juice on your fingers"
+  },
+  {
+    "start_time": 75.94,
+    "end_time": 80.94,
+    "content": "You laugh"
+  },
+  {
+    "start_time": 76.65,
+    "end_time": 81.65,
+    "content": "I smile"
+  },
+  {
+    "start_time": 77.61,
+    "end_time": 82.61,
+    "content": "You say it's too ripe"
+  },
+  {
+    "start_time": 79.33,
+    "end_time": 84.33,
+    "content": "I say it's just right"
+  },
+  {
+    "start_time": 81.05,
+    "end_time": 86.05,
+    "content": "We bite at the same time"
+  },
+  {
+    "start_time": 82.69,
+    "end_time": 87.69,
+    "content": "Sweet"
+  },
+  {
+    "start_time": 83.22,
+    "end_time": 88.22,
+    "content": "Messy light"
+  },
+  {
+    "start_time": 84.73,
+    "end_time": 89.73,
+    "content": "Car windows open"
+  },
+  {
+    "start_time": 86.41,
+    "end_time": 91.41,
+    "content": "Hair in your face"
+  },
+  {
+    "start_time": 88.13,
+    "end_time": 93.13,
+    "content": "Bag full of roadside fruit"
+  },
+  {
+    "start_time": 89.94,
+    "end_time": 94.94,
+    "content": "Heat in the place"
+  },
+  {
+    "start_time": 91.33,
+    "end_time": 96.33,
+    "content": "Pit in the cup holder"
+  },
+  {
+    "start_time": 93.21,
+    "end_time": 98.21,
+    "content": "Knee on the seat"
+  },
+  {
+    "start_time": 94.37,
+    "end_time": 99.37,
+    "content": "You lean over at a red light"
+  },
+  {
+    "start_time": 96.46,
+    "end_time": 101.46,
+    "content": "Kiss me"
+  },
+  {
+    "start_time": 97.17,
+    "end_time": 102.17,
+    "content": "Then eat"
+  },
+  {
+    "start_time": 98.01,
+    "end_time": 103.01,
+    "content": "You taste like summer peach"
+  },
+  {
+    "start_time": 101.33,
+    "end_time": 106.33,
+    "content": "Sticky hands and softest speech"
+  },
+  {
+    "start_time": 104.81,
+    "end_time": 109.81,
+    "content": "Dripping down my sleeve"
+  },
+  {
+    "start_time": 106.5,
+    "end_time": 111.5,
+    "content": "Don't wipe it"
+  },
+  {
+    "start_time": 107.25,
+    "end_time": 112.25,
+    "content": "Let it breathe"
+  },
+  {
+    "start_time": 108.93,
+    "end_time": 113.93,
+    "content": "If this is all we ever reach"
+  },
+  {
+    "start_time": 110.78,
+    "end_time": 115.78,
+    "content": "I'm okay with just this peach"
+  },
+  {
+    "start_time": 112.39,
+    "end_time": 117.39,
+    "content": "You taste like summer peach"
+  },
+  {
+    "start_time": 115.05,
+    "end_time": 120.05,
+    "content": "Sticky hands and softest speech"
+  },
+  {
+    "start_time": 118.53,
+    "end_time": 123.53,
+    "content": "Dripping down my sleeve"
+  },
+  {
+    "start_time": 120.09,
+    "end_time": 125.09,
+    "content": "Don't wipe it"
+  },
+  {
+    "start_time": 120.93,
+    "end_time": 125.93,
+    "content": "Let it breathe"
+  },
+  {
+    "start_time": 122.65,
+    "end_time": 127.65,
+    "content": "If this is all we ever reach"
+  },
+  {
+    "start_time": 124.5,
+    "end_time": 129.5,
+    "content": "I'm okay with just this peach"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "7577280715662919715",
+  "rank": 18,
+  "title": "花间",
+  "author": "演奏",
+  "album": "济公Ⅰ、Ⅱ(二)",
+  "heat": 16998968,
+  "user_count": 198835,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 22:55",
+  "files": {
+    "cover_image": "images/7577280715662919715.jpg",
+    "audio": "music/7577280715662919715.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7577280715662919715_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "8.640秒 - 68.736秒 (持续60.096秒)",
+    "start_seconds": 8.64,
+    "duration_seconds": 60.096
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Memory"
+    ],
+    "Genres": [
+      "BGM",
+      "Others"
+    ],
+    "Themes": [
+      "SoundTrack",
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

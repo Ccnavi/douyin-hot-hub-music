@@ -1,11 +1,11 @@
 {
   "id": "7595207640864655369",
-  "rank": 4,
+  "rank": 15,
   "title": "咏春 (氛围版)（Cover 七朵组合）",
   "author": "图钉姐",
   "album": "",
   "heat": 17097339,
-  "user_count": 956470,
+  "user_count": 956280,
   "duration": 233,
   "duration_formatted": "233秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 13:44",
+  "update_time": "2026-11-12 22:55",
   "files": {
     "cover_image": "images/7595207640864655369.jpg",
     "audio": "music/7595207640864655369.mp3",

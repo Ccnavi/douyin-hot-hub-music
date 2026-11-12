@@ -1,0 +1,57 @@
+{
+  "id": "7613365272854906896",
+  "rank": 12,
+  "title": "City In Slow time",
+  "author": "Prologue",
+  "album": "Prologue_vol.1",
+  "heat": 17218254,
+  "user_count": 156261,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 22:54",
+  "files": {
+    "cover_image": "images/7613365272854906896.jpg",
+    "audio": "music/7613365272854906896.mp3",
+    "lyrics": "lyrics/7613365272854906896.lrc",
+    "chorus_lyrics": "chorus_lyrics/7613365272854906896_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7613365272854906896.json",
+    "chorus_raw_lyrics": "raw_lyrics/7613365272854906896_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "187.776秒 - 209.279秒 (持续21.503秒)",
+    "start_seconds": 187.776,
+    "duration_seconds": 21.503
+  },
+  "tags": {
+    "Languages": [
+      "English"
+    ],
+    "Moods": [
+      "Chill",
+      "Romantic"
+    ],
+    "Genres": [
+      "R&B/Soul"
+    ],
+    "Themes": [
+      "Love",
+      "Summer"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEuC8BEmCGDAZQgSQgAVF96BfjQACpEtZHEve7"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

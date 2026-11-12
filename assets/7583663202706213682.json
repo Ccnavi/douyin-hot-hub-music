@@ -1,11 +1,11 @@
 {
   "id": "7583663202706213682",
-  "rank": 21,
+  "rank": 39,
   "title": "天下第一好",
   "author": "李小眼",
   "album": "天下第一好",
   "heat": 16672278,
-  "user_count": 6502781,
+  "user_count": 6510703,
   "duration": 20,
   "duration_formatted": "20秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 15:04",
+  "update_time": "2026-11-12 23:14",
   "files": {
     "cover_image": "images/7583663202706213682.jpg",
     "audio": "music/7583663202706213682.mp3",

@@ -1,0 +1,57 @@
+{
+  "id": "7614522248834811921",
+  "rank": 29,
+  "title": "爱要拐几个弯才来",
+  "author": "王齐语",
+  "album": "天空下起相思雨",
+  "heat": 16758342,
+  "user_count": 357686,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 22:56",
+  "files": {
+    "cover_image": "images/7614522248834811921.jpg",
+    "audio": "music/7614522248834811921.mp3",
+    "lyrics": "lyrics/7614522248834811921.lrc",
+    "chorus_lyrics": "chorus_lyrics/7614522248834811921_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7614522248834811921.json",
+    "chorus_raw_lyrics": "raw_lyrics/7614522248834811921_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "68.736秒 - 92.736秒 (持续24.000秒)",
+    "start_seconds": 68.736,
+    "duration_seconds": 24.0
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Miss",
+      "Memory"
+    ],
+    "Genres": [
+      "Pop",
+      "Chinese Pop"
+    ],
+    "Themes": [
+      "Love"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMjfipACfCB8AwDttu6urnEggFZ2orXAbQEEBt"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}
