@@ -1,0 +1,59 @@
+{
+  "id": "7614660052549388304",
+  "rank": 39,
+  "title": "4 AM Humming",
+  "author": "WI:ZY",
+  "album": "4 AM Humming",
+  "heat": 16297568,
+  "user_count": 149191,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 15:05",
+  "files": {
+    "cover_image": "images/7614660052549388304.jpg",
+    "audio": "music/7614660052549388304.mp3",
+    "lyrics": "lyrics/7614660052549388304.lrc",
+    "chorus": "chorus/7614660052549388304_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7614660052549388304_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7614660052549388304.json",
+    "chorus_raw_lyrics": "raw_lyrics/7614660052549388304_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 24.384秒 (持续24.384秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 24.384
+  },
+  "tags": {
+    "Languages": [
+      "Korean"
+    ],
+    "Moods": [
+      "Chill",
+      "Romantic"
+    ],
+    "Genres": [
+      "Pop",
+      "Folk",
+      "Chinese Folk"
+    ],
+    "Themes": [
+      "Love"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ognvsedC0EoAWAAxgA1i3CBiEXBABIBoYwvtWS"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

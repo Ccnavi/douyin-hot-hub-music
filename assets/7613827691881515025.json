@@ -1,0 +1,57 @@
+{
+  "id": "7613827691881515025",
+  "rank": 20,
+  "title": "想看你笑想和你闹",
+  "author": "熊志朝",
+  "album": "我再也看不见深夜的眼泪",
+  "heat": 16704404,
+  "user_count": 31621,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 15:04",
+  "files": {
+    "cover_image": "images/7613827691881515025.jpg",
+    "audio": "music/7613827691881515025.mp3",
+    "lyrics": "lyrics/7613827691881515025.lrc",
+    "chorus_lyrics": "chorus_lyrics/7613827691881515025_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7613827691881515025.json",
+    "chorus_raw_lyrics": "raw_lyrics/7613827691881515025_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "62.784秒 - 94.272秒 (持续31.488秒)",
+    "start_seconds": 62.784,
+    "duration_seconds": 31.488
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Dance",
+      "Low"
+    ],
+    "SingingVersions": [
+      "Low Cost Creation"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIApAfsWDBCpFAFtzsEMD9ETrBQEfkGg3PZ0EC"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

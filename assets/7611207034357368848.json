@@ -1,0 +1,57 @@
+{
+  "id": "7611207034357368848",
+  "rank": 29,
+  "title": "你知道天空有多藍",
+  "author": "椅子樂團",
+  "album": "愛的對白",
+  "heat": 16495055,
+  "user_count": 5274295,
+  "duration": 33,
+  "duration_formatted": "33秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 15:04",
+  "files": {
+    "cover_image": "images/7611207034357368848.jpg",
+    "audio": "music/7611207034357368848.mp3",
+    "lyrics": "lyrics/7611207034357368848.lrc",
+    "chorus": "chorus/7611207034357368848_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7611207034357368848_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7611207034357368848.json",
+    "chorus_raw_lyrics": "raw_lyrics/7611207034357368848_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "131.904秒 - 163.775秒 (持续31.871秒)",
+    "start_seconds": 131.904,
+    "duration_seconds": 31.871
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Sunny"
+    ],
+    "SingingVersions": [
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oodKVyAdEiBkjxAA2l0WtBSAeESVorAPwBkiDs"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

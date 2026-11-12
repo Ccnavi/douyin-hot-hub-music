@@ -1,11 +1,11 @@
 {
   "id": "7612711516403451931",
-  "rank": 27,
+  "rank": 40,
   "title": "够爱 (R&B版)（Cover 东城卫）（剪辑版）",
   "author": "大头钉",
   "album": "",
   "heat": 16286123,
-  "user_count": 54098,
+  "user_count": 54092,
   "duration": 29,
   "duration_formatted": "29秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 07:19",
+  "update_time": "2026-11-12 15:05",
   "files": {
     "cover_image": "images/7612711516403451931.jpg",
     "audio": "music/7612711516403451931.mp3",
@@ -46,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMihN8DTEFCAE7B2vAEQAAtABegPfZDap0BDg4"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMihN8DTEFCAE7B2vAEQAAtABegPfZDap0BDg4"
   },
   "audio_info": {
     "is_full_audio": false,

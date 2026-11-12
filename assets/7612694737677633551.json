@@ -5,7 +5,7 @@
   "author": "溫月月.",
   "album": "",
   "heat": 16925670,
-  "user_count": 280848,
+  "user_count": 280813,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 07:18",
+  "update_time": "2026-11-12 13:44",
   "files": {
     "cover_image": "images/7612694737677633551.jpg",
-    "audio": "music/7612694737677633551.mp3",
+    "audio": "assets/music/7612694737677633551.mp3",
     "lyrics": "lyrics/7612694737677633551.lrc",
-    "chorus": "chorus/7612694737677633551_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7612694737677633551_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7612694737677633551.json",
     "chorus_raw_lyrics": "raw_lyrics/7612694737677633551_chorus.json"
@@ -53,6 +52,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }

@@ -1,0 +1,54 @@
+{
+  "id": "7613334587516389428",
+  "rank": 15,
+  "title": "假心话",
+  "author": "M3mo",
+  "album": "",
+  "heat": 16731198,
+  "user_count": 222548,
+  "duration": 121,
+  "duration_formatted": "121秒",
+  "is_original": false,
+  "is_commerce_music": true,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 15:03",
+  "files": {
+    "cover_image": "images/7613334587516389428.jpg",
+    "audio": "music/7613334587516389428.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7613334587516389428_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 16.128秒 (持续16.128秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 16.128
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Chill"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Themes": [
+      "Vlog"
+    ],
+    "SingingVersions": [
+      "High Quality",
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

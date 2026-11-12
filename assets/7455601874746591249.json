@@ -1,0 +1,55 @@
+{
+  "id": "7455601874746591249",
+  "rank": 30,
+  "title": "鼠牛功夫高",
+  "author": "DJ小念",
+  "album": "十二生肖闯江湖",
+  "heat": 16487212,
+  "user_count": 49739,
+  "duration": 77,
+  "duration_formatted": "77秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-12 15:04",
+  "files": {
+    "cover_image": "images/7455601874746591249.jpg",
+    "audio": "music/7455601874746591249.mp3",
+    "lyrics": "lyrics/7455601874746591249.lrc",
+    "chorus": "chorus/7455601874746591249_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7455601874746591249_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7455601874746591249.json",
+    "chorus_raw_lyrics": "raw_lyrics/7455601874746591249_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "17.472秒 - 33.792秒 (持续16.320秒)",
+    "start_seconds": 17.472,
+    "duration_seconds": 16.32
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Sunny"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8AmNUgauAJxfjAe1A3vmKAgY4KfsGAReFAncg"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

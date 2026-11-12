@@ -1,11 +1,11 @@
 {
   "id": "7609332944956196915",
-  "rank": 26,
+  "rank": 38,
   "title": "我欲成冰再也无退路（剪辑版）",
   "author": "迷雾里的幻境",
   "album": "",
   "heat": 16350580,
-  "user_count": 231895,
+  "user_count": 231870,
   "duration": 29,
   "duration_formatted": "29秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-12 07:19",
+  "update_time": "2026-11-12 15:05",
   "files": {
     "cover_image": "images/7609332944956196915.jpg",
     "audio": "music/7609332944956196915.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEEAEgqfe3WEQrazx4NTeAFNGAoDZCADFZyEbC"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEEAEgqfe3WEQrazx4NTeAFNGAoDZCADFZyEbC"
   },
   "audio_info": {
     "is_full_audio": true,
