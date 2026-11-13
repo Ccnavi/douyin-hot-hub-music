@@ -5,7 +5,7 @@
   "author": "Fozik佛子克",
   "album": "你的不经意",
   "heat": 19951092,
-  "user_count": 669704,
+  "user_count": 674748,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 05:43",
+  "update_time": "2026-11-13 10:23",
   "files": {
     "cover_image": "images/7699717253151558410.jpg",
-    "audio": "assets/music/7699717253151558410.mp3",
+    "audio": "music/7699717253151558410.mp3",
     "lyrics": ""
   },
   "high_peak": {
