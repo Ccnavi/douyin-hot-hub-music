@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 14:31",
+  "update_time": "2026-11-13 18:33",
   "files": {
     "cover_image": "images/7613827691881515025.jpg",
     "audio": "music/7613827691881515025.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIApAfsWDBCpFAFtzsEMD9ETrBQEfkGg3PZ0EC"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIApAfsWDBCpFAFtzsEMD9ETrBQEfkGg3PZ0EC"
   },
   "audio_info": {
     "is_full_audio": false,

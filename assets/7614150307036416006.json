@@ -5,7 +5,7 @@
   "author": "鱼饼吃橘子",
   "album": "",
   "heat": 16389682,
-  "user_count": 55269,
+  "user_count": 55283,
   "duration": 80,
   "duration_formatted": "80秒",
   "is_original": true,
@@ -13,15 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 14:32",
+  "update_time": "2026-11-13 18:35",
   "files": {
     "cover_image": "images/7614150307036416006.jpg",
     "audio": "music/7614150307036416006.mp3",
-    "lyrics": "lyrics/7614150307036416006.lrc",
-    "chorus": "chorus/7614150307036416006_chorus.mp3",
-    "chorus_lyrics": "chorus_lyrics/7614150307036416006_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/7614150307036416006.json",
-    "chorus_raw_lyrics": "raw_lyrics/7614150307036416006_chorus.json"
+    "lyrics": "",
+    "chorus": "chorus/7614150307036416006_chorus.mp3"
   },
   "high_peak": {
     "time_range": "0.000秒 - 76.992秒 (持续76.992秒)",
@@ -47,7 +44,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4ZBwFBzAxcfD1yQBpEkCeQKxAEtEAx7DgDVEg"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4ZBwFBzAxcfD1yQBpEkCeQKxAEtEAx7DgDVEg"
   },
   "audio_info": {
     "is_full_audio": true,

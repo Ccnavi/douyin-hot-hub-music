@@ -5,7 +5,7 @@
   "author": "M3mo",
   "album": "",
   "heat": 16731198,
-  "user_count": 222793,
+  "user_count": 222867,
   "duration": 121,
   "duration_formatted": "121秒",
   "is_original": false,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 13:31",
+  "update_time": "2026-11-13 18:33",
   "files": {
-    "cover_image": "assets/images/7613334587516389428.jpg",
+    "cover_image": "images/7613334587516389428.jpg",
     "audio": "music/7613334587516389428.mp3",
     "lyrics": "",
     "chorus": "chorus/7613334587516389428_chorus.mp3"
