@@ -1,11 +1,11 @@
 {
   "id": "7598742131261458483",
-  "rank": 32,
+  "rank": 30,
   "title": "光头强小曲 (DJ版)",
   "author": "Fkll",
   "album": "You And Me",
   "heat": 16734760,
-  "user_count": 1147351,
+  "user_count": 1147046,
   "duration": 178,
   "duration_formatted": "178秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:33",
+  "update_time": "2026-11-14 02:24",
   "files": {
     "cover_image": "images/7598742131261458483.jpg",
     "audio": "music/7598742131261458483.mp3",

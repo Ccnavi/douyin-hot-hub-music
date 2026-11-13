@@ -1,11 +1,11 @@
 {
   "id": "7607786623845828642",
-  "rank": 25,
+  "rank": 23,
   "title": "你不必是一朵花（剪辑版）",
   "author": "J.H.H",
   "album": "",
   "heat": 16817955,
-  "user_count": 2350635,
+  "user_count": 2350893,
   "duration": 42,
   "duration_formatted": "42秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:32",
+  "update_time": "2026-11-14 02:24",
   "files": {
     "cover_image": "images/7607786623845828642.jpg",
     "audio": "music/7607786623845828642.mp3",

@@ -1,11 +1,11 @@
 {
   "id": "7541347542053636906",
-  "rank": 13,
+  "rank": 11,
   "title": "来不及爱你-降速版",
   "author": "h3R3",
   "album": "来不及爱你",
   "heat": 17160579,
-  "user_count": 847182,
+  "user_count": 847030,
   "duration": 39,
   "duration_formatted": "39秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:31",
+  "update_time": "2026-11-14 02:23",
   "files": {
     "cover_image": "images/7541347542053636906.jpg",
     "audio": "music/7541347542053636906.mp3",

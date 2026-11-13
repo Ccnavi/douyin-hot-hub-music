@@ -1,11 +1,11 @@
 {
   "id": "7610434361887885362",
-  "rank": 62,
+  "rank": 60,
   "title": "我就爱这乱七八糟的生活",
   "author": "2menG",
   "album": "",
   "heat": 16254533,
-  "user_count": 400940,
+  "user_count": 400840,
   "duration": 190,
   "duration_formatted": "190秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:56",
+  "update_time": "2026-11-14 02:26",
   "files": {
     "cover_image": "images/7610434361887885362.jpg",
     "audio": "music/7610434361887885362.mp3",

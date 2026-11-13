@@ -1,11 +1,11 @@
 {
   "id": "7611130444843960337",
-  "rank": 14,
+  "rank": 12,
   "title": "传奇(Remix)",
   "author": "DJ不眠星",
   "album": "传奇(Remix)",
   "heat": 17112667,
-  "user_count": 796561,
+  "user_count": 796490,
   "duration": 160,
   "duration_formatted": "160秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:31",
+  "update_time": "2026-11-14 02:23",
   "files": {
     "cover_image": "images/7611130444843960337.jpg",
     "audio": "music/7611130444843960337.mp3",

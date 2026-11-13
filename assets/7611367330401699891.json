@@ -1,11 +1,11 @@
 {
   "id": "7611367330401699891",
-  "rank": 4,
+  "rank": 2,
   "title": "Starlight (氛围纯享版)",
   "author": "BlastW",
   "album": "飞驰人生",
   "heat": 18345976,
-  "user_count": 3742159,
+  "user_count": 3744419,
   "duration": 132,
   "duration_formatted": "132秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:31",
+  "update_time": "2026-11-14 02:22",
   "files": {
     "cover_image": "images/7611367330401699891.jpg",
     "audio": "music/7611367330401699891.mp3",

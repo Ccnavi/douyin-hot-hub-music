@@ -1,11 +1,11 @@
 {
   "id": "7468232856016472080",
-  "rank": 59,
+  "rank": 57,
   "title": "远去的列车",
   "author": "四熹丸子",
   "album": "远去的列车",
   "heat": 16267636,
-  "user_count": 719787,
+  "user_count": 720017,
   "duration": 240,
   "duration_formatted": "240秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:56",
+  "update_time": "2026-11-14 02:26",
   "files": {
     "cover_image": "images/7468232856016472080.jpg",
     "audio": "music/7468232856016472080.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQDWswoq0EoAWAA3FAqimBpiE2BAZkBB8wf6P7"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQDWswoq0EoAWAA3FAqimBpiE2BAZkBB8wf6P7"
   },
   "audio_info": {
     "is_full_audio": true,

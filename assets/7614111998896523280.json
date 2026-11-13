@@ -1,11 +1,11 @@
 {
   "id": "7614111998896523280",
-  "rank": 8,
+  "rank": 6,
   "title": "Atatata - Radio Edit",
   "author": "ABMusic",
   "album": "Atatata - Radio Edit",
   "heat": 17577662,
-  "user_count": 232859,
+  "user_count": 232857,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:31",
+  "update_time": "2026-11-14 02:23",
   "files": {
     "cover_image": "images/7614111998896523280.jpg",
     "audio": "music/7614111998896523280.mp3",

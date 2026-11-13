@@ -1,11 +1,11 @@
 {
   "id": "7600968849777084443",
-  "rank": 20,
+  "rank": 18,
   "title": "别辜负眼前季节 (咏春DJ)",
   "author": "阿兰",
   "album": "八万",
   "heat": 16925494,
-  "user_count": 4671791,
+  "user_count": 4671003,
   "duration": 199,
   "duration_formatted": "199秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-13 18:32",
+  "update_time": "2026-11-14 02:23",
   "files": {
     "cover_image": "images/7600968849777084443.jpg",
     "audio": "music/7600968849777084443.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8qAIGKLWIAeGmAAJ41CxeIIeoRPGeqFA4HnLE"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8qAIGKLWIAeGmAAJ41CxeIIeoRPGeqFA4HnLE"
   },
   "audio_info": {
     "is_full_audio": true,
