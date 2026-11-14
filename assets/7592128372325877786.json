@@ -5,7 +5,7 @@
   "author": "PPR",
   "album": "",
   "heat": 16777254,
-  "user_count": 579257,
+  "user_count": 579183,
   "duration": 25,
   "duration_formatted": "25秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-14 02:24",
+  "update_time": "2026-11-14 16:11",
   "files": {
     "cover_image": "images/7592128372325877786.jpg",
     "audio": "music/7592128372325877786.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocGUk4E8CiBAdQYoBWAXFhrXE7irIiwAAaAvW"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocGUk4E8CiBAdQYoBWAXFhrXE7irIiwAAaAvW"
   },
   "audio_info": {
     "is_full_audio": false,

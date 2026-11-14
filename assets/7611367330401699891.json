@@ -5,7 +5,7 @@
   "author": "BlastW",
   "album": "飞驰人生",
   "heat": 18345976,
-  "user_count": 3744419,
+  "user_count": 3749519,
   "duration": 132,
   "duration_formatted": "132秒",
   "is_original": false,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-14 02:22",
+  "update_time": "2026-11-14 15:21",
   "files": {
-    "cover_image": "images/7611367330401699891.jpg",
+    "cover_image": "assets/images/7611367330401699891.jpg",
     "audio": "music/7611367330401699891.mp3",
     "lyrics": "",
     "chorus": "chorus/7611367330401699891_chorus.mp3"

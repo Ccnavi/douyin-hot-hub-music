@@ -5,7 +5,7 @@
   "author": "吴琳珂Moske",
   "album": "失眠了",
   "heat": 17788623,
-  "user_count": 1047922,
+  "user_count": 1047807,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-14 02:23",
+  "update_time": "2026-11-14 15:37",
   "files": {
     "cover_image": "images/7603751861397768208.jpg",
     "audio": "music/7603751861397768208.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUDAHvVyEEW2EP92MYairrBUhjiqAAuYGAxAG"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUDAHvVyEEW2EP92MYairrBUhjiqAAuYGAxAG"
   },
   "audio_info": {
     "is_full_audio": false,

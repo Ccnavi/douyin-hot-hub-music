@@ -5,7 +5,7 @@
   "author": "Martins Garix",
   "album": "一切都在变好（生命力BGM）",
   "heat": 16586655,
-  "user_count": 5726873,
+  "user_count": 5730640,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-14 02:25",
+  "update_time": "2026-11-14 17:03",
   "files": {
-    "cover_image": "images/7552893524178733082.jpg",
+    "cover_image": "assets/images/7552893524178733082.jpg",
     "audio": "music/7552893524178733082.mp3",
     "lyrics": "",
     "chorus": "chorus/7552893524178733082_chorus.mp3"
