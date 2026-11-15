@@ -1,11 +1,11 @@
 {
   "id": "7614660052549388304",
-  "rank": 55,
+  "rank": 54,
   "title": "4 AM Humming",
   "author": "WI:ZY",
   "album": "4 AM Humming",
   "heat": 16297568,
-  "user_count": 149142,
+  "user_count": 149144,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-15 13:08",
+  "update_time": "2026-11-15 21:08",
   "files": {
     "cover_image": "images/7614660052549388304.jpg",
     "audio": "music/7614660052549388304.mp3",

@@ -1,11 +1,11 @@
 {
   "id": "7612495195403487266",
-  "rank": 7,
+  "rank": 6,
   "title": "如果我一颗心被你俘虏",
   "author": "好久不见",
   "album": "",
   "heat": 17542190,
-  "user_count": 482185,
+  "user_count": 482134,
   "duration": 173,
   "duration_formatted": "173秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-15 12:47",
+  "update_time": "2026-11-15 20:30",
   "files": {
     "cover_image": "images/7612495195403487266.jpg",
     "audio": "music/7612495195403487266.mp3",

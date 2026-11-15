@@ -1,11 +1,11 @@
 {
   "id": "7543081193115584539",
-  "rank": 19,
+  "rank": 18,
   "title": "ditto(氛围感)",
   "author": "@天子",
   "album": "Africa",
   "heat": 16923027,
-  "user_count": 231679,
+  "user_count": 231698,
   "duration": 101,
   "duration_formatted": "101秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-15 12:48",
+  "update_time": "2026-11-15 20:31",
   "files": {
     "cover_image": "images/7543081193115584539.jpg",
     "audio": "music/7543081193115584539.mp3",

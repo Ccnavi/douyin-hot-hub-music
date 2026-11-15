@@ -1,11 +1,11 @@
 {
   "id": "7607026727022888994",
-  "rank": 34,
+  "rank": 33,
   "title": "Scared 2 be lonely beat（当真爱降临）（剪辑版）",
   "author": "Yn1jasper",
   "album": "",
   "heat": 16710983,
-  "user_count": 256880,
+  "user_count": 256969,
   "duration": 49,
   "duration_formatted": "49秒",
   "is_original": false,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-15 12:49",
+  "update_time": "2026-11-15 20:32",
   "files": {
-    "cover_image": "images/7607026727022888994.jpg",
+    "cover_image": "assets/images/7607026727022888994.jpg",
     "audio": "music/7607026727022888994.mp3",
     "lyrics": "lyrics/7607026727022888994.lrc",
     "chorus": "chorus/7607026727022888994_chorus.mp3",
@@ -44,7 +44,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8IAIAGeoheIv11m7QfmlALQwA8GzFAGKQN2fF"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8IAIAGeoheIv11m7QfmlALQwA8GzFAGKQN2fF"
   },
   "audio_info": {
     "is_full_audio": true,
