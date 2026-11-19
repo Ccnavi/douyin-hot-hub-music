@@ -5,7 +5,7 @@
   "author": "大头钉",
   "album": "",
   "heat": 16286123,
-  "user_count": 54146,
+  "user_count": 54140,
   "duration": 29,
   "duration_formatted": "29秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-19 12:53",
+  "update_time": "2026-11-20 01:08",
   "files": {
-    "cover_image": "images/7612711516403451931.jpg",
-    "audio": "assets/music/7612711516403451931.mp3",
+    "cover_image": "assets/images/7612711516403451931.jpg",
+    "audio": "music/7612711516403451931.mp3",
     "lyrics": "lyrics/7612711516403451931.lrc",
+    "chorus": "chorus/7612711516403451931_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7612711516403451931_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7612711516403451931.json",
     "chorus_raw_lyrics": "raw_lyrics/7612711516403451931_chorus.json"
@@ -50,6 +51,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": false
+    "has_chorus_segment": true
   }
 }
