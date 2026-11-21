@@ -1,11 +1,11 @@
 {
   "id": "7582416301210044442",
-  "rank": 7,
+  "rank": 8,
   "title": "我和你要去闻闻新鲜的春天",
   "author": "梦翎",
   "album": "我和你要去闻闻新鲜的春天",
   "heat": 17493295,
-  "user_count": 689337,
+  "user_count": 689134,
   "duration": 159,
   "duration_formatted": "159秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-20 05:11",
+  "update_time": "2026-11-21 08:41",
   "files": {
     "cover_image": "images/7582416301210044442.jpg",
     "audio": "music/7582416301210044442.mp3",

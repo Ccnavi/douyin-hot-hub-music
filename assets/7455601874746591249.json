@@ -1,11 +1,11 @@
 {
   "id": "7455601874746591249",
-  "rank": 44,
+  "rank": 45,
   "title": "鼠牛功夫高",
   "author": "DJ小念",
   "album": "十二生肖闯江湖",
   "heat": 16487212,
-  "user_count": 49989,
+  "user_count": 49994,
   "duration": 77,
   "duration_formatted": "77秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-20 05:14",
+  "update_time": "2026-11-21 11:28",
   "files": {
     "cover_image": "images/7455601874746591249.jpg",
     "audio": "music/7455601874746591249.mp3",

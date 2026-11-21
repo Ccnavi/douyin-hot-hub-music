@@ -1,0 +1,57 @@
+{
+  "id": "6913777506696841217",
+  "rank": 2,
+  "title": "明年依然好时节（纵然我的相思）",
+  "author": "许飞",
+  "album": "许飞",
+  "heat": 19511724,
+  "user_count": 593424,
+  "duration": 60,
+  "duration_formatted": "60秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": true,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2026-11-21 08:40",
+  "files": {
+    "cover_image": "images/6913777506696841217.jpg",
+    "audio": "music/6913777506696841217.mp3",
+    "lyrics": "lyrics/6913777506696841217.lrc",
+    "chorus": "chorus/6913777506696841217_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/6913777506696841217_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/6913777506696841217.json",
+    "chorus_raw_lyrics": "raw_lyrics/6913777506696841217_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "47.808秒 - 63.744秒 (持续15.936秒)",
+    "start_seconds": 47.808,
+    "duration_seconds": 15.936
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Memory"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Rainy"
+    ],
+    "SingingVersions": [
+      "republished version"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/4f8ffdcf1b964dc1860acb5c7e91a446"
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

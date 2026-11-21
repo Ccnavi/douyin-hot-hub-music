@@ -1,11 +1,11 @@
 {
   "id": "7592128372325877786",
-  "rank": 22,
+  "rank": 23,
   "title": "几分之几（氛围r&b）（Cover 卢广仲）（剪辑版）",
   "author": "PPR",
   "album": "",
   "heat": 16777254,
-  "user_count": 577833,
+  "user_count": 577678,
   "duration": 25,
   "duration_formatted": "25秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-20 05:12",
+  "update_time": "2026-11-21 09:50",
   "files": {
     "cover_image": "images/7592128372325877786.jpg",
     "audio": "music/7592128372325877786.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocGUk4E8CiBAdQYoBWAXFhrXE7irIiwAAaAvW"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocGUk4E8CiBAdQYoBWAXFhrXE7irIiwAAaAvW"
   },
   "audio_info": {
     "is_full_audio": false,
