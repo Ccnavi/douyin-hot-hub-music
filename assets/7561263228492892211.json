@@ -5,7 +5,7 @@
   "author": "VodKe/Klinn",
   "album": "Memories",
   "heat": 16628528,
-  "user_count": 1472672,
+  "user_count": 1472633,
   "duration": 158,
   "duration_formatted": "158秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-22 02:49",
+  "update_time": "2026-11-22 19:24",
   "files": {
     "cover_image": "images/7561263228492892211.jpg",
-    "audio": "assets/music/7561263228492892211.mp3",
-    "lyrics": ""
+    "audio": "music/7561263228492892211.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7561263228492892211_chorus.mp3"
   },
   "high_peak": {
     "time_range": "90.240秒 - 149.184秒 (持续58.944秒)",
@@ -45,8 +46,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }

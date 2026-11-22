@@ -5,7 +5,7 @@
   "author": "阿吉野马",
   "album": "",
   "heat": 16612894,
-  "user_count": 538479,
+  "user_count": 538302,
   "duration": 145,
   "duration_formatted": "145秒",
   "is_original": true,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-22 03:08",
+  "update_time": "2026-11-22 19:24",
   "files": {
-    "cover_image": "images/7604726740271925283.jpg",
+    "cover_image": "assets/images/7604726740271925283.jpg",
     "audio": "music/7604726740271925283.mp3",
     "lyrics": "lyrics/7604726740271925283.lrc",
     "chorus": "chorus/7604726740271925283_chorus.mp3",
@@ -49,7 +49,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogCA1FvV6tTpDTKAZfwBUXttgNEUACAEepEbEL"
+    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogCA1FvV6tTpDTKAZfwBUXttgNEUACAEepEbEL"
   },
   "audio_info": {
     "is_full_audio": true,

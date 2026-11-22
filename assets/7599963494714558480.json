@@ -5,7 +5,7 @@
   "author": "卓文萱",
   "album": "幸福氧气",
   "heat": 16767267,
-  "user_count": 1215778,
+  "user_count": 1217215,
   "duration": 34,
   "duration_formatted": "34秒",
   "is_original": false,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-22 01:34",
+  "update_time": "2026-11-22 19:06",
   "files": {
-    "cover_image": "assets/images/7599963494714558480.jpg",
+    "cover_image": "images/7599963494714558480.jpg",
     "audio": "music/7599963494714558480.mp3",
     "lyrics": "lyrics/7599963494714558480.lrc",
     "chorus_lyrics": "chorus_lyrics/7599963494714558480_chorus.lrc",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okAeBLfrKeUm0GItIkDGbXAfF7I1lm3AAAFKI6"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okAeBLfrKeUm0GItIkDGbXAfF7I1lm3AAAFKI6"
   },
   "audio_info": {
     "is_full_audio": false,

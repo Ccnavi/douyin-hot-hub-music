@@ -5,7 +5,7 @@
   "author": "凌晨一点的莱茵猫 & 二乘",
   "album": "",
   "heat": 16264933,
-  "user_count": 8147485,
+  "user_count": 8166123,
   "duration": 129,
   "duration_formatted": "129秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-22 04:46",
+  "update_time": "2026-11-22 21:04",
   "files": {
     "cover_image": "images/7513467386999097396.jpg",
-    "audio": "music/7513467386999097396.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7513467386999097396_chorus.mp3"
+    "audio": "assets/music/7513467386999097396.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "98.880秒 - 123.840秒 (持续24.960秒)",
@@ -46,8 +45,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
