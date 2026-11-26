@@ -5,7 +5,7 @@
   "author": "刘星宇",
   "album": "",
   "heat": 16704905,
-  "user_count": 1616949,
+  "user_count": 1625510,
   "duration": 29,
   "duration_formatted": "29秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-23 08:14",
+  "update_time": "2026-11-27 04:18",
   "files": {
     "cover_image": "images/7592875430232623144.jpg",
-    "audio": "assets/music/7592875430232623144.mp3",
-    "lyrics": ""
+    "audio": "music/7592875430232623144.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7592875430232623144_chorus.mp3"
   },
   "high_peak": {
     "time_range": "60.672秒 - 89.472秒 (持续28.800秒)",
@@ -47,6 +48,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": false
+    "has_chorus_segment": true
   }
 }
