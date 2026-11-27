@@ -5,7 +5,7 @@
   "author": "行走的荷尔蒙",
   "album": "马年进行曲",
   "heat": 17423830,
-  "user_count": 3958871,
+  "user_count": 3959500,
   "duration": 205,
   "duration_formatted": "205秒",
   "is_original": false,
@@ -13,9 +13,9 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-27 03:59",
+  "update_time": "2026-11-27 11:03",
   "files": {
-    "cover_image": "images/7598010257508223026.jpg",
+    "cover_image": "assets/images/7598010257508223026.jpg",
     "audio": "music/7598010257508223026.mp3",
     "lyrics": "",
     "chorus": "chorus/7598010257508223026_chorus.mp3"
