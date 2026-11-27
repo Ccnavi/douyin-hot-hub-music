@@ -1,11 +1,11 @@
 {
   "id": "7330698422363686948",
-  "rank": 60,
+  "rank": 59,
   "title": "Autumn Leaf",
   "author": "RePlus (リプラス)",
   "album": "RELAX and SMOOTH",
   "heat": 16229643,
-  "user_count": 225133,
+  "user_count": 225082,
   "duration": 229,
   "duration_formatted": "229秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-27 20:40",
+  "update_time": "2026-11-28 06:05",
   "files": {
     "cover_image": "images/7330698422363686948.jpg",
     "audio": "music/7330698422363686948.mp3",
