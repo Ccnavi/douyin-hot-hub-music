@@ -5,7 +5,7 @@
   "author": "Dave",
   "album": "太聪明R&B版",
   "heat": 16486441,
-  "user_count": 136283,
+  "user_count": 136297,
   "duration": 93,
   "duration_formatted": "93秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2026-11-28 06:04",
+  "update_time": "2026-11-28 12:43",
   "files": {
     "cover_image": "images/7596326723956853558.jpg",
-    "audio": "music/7596326723956853558.mp3",
+    "audio": "assets/music/7596326723956853558.mp3",
     "lyrics": ""
   },
   "high_peak": {
